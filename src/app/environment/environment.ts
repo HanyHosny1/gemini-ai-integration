@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  googleGenerativeAIKey: '',
+  googleGenerativeAIKey: 'YOUR_PRODUCTION_API_KEY_HERE',
 };
